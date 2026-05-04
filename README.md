@@ -103,5 +103,3 @@ DAS aplicado → AL = 19h  (correcto BCD)
 | 5 / 0     | `Division por cero.`      |
 
 ---
-
-r
